@@ -1,0 +1,6 @@
+port : 1883
+database name : project
+hostname : bagus
+set_pw : sql
+data/sensor
+"{\"sensor1\" : 100, \"sensor2\": 200, \"sensor3\": 300}"

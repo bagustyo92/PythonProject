@@ -1,0 +1,4 @@
+multiclient bisa 3 cara
+thread = menjalankan thread yang berbeda ketika conn sudah berbeda
+select = ribet
+dan twisted = menggunakan framework thread jadi kita gaperlu tau thread 

@@ -24,3 +24,6 @@ def satu(node_id):
 		print "Error"
 
 semua()
+satu(1)
+satu(2)
+satu(3)

@@ -18,5 +18,6 @@ import sys
 import paho.mqtt.publish as publish
 
 
-publish.single("rumah/lampu/teras", "on", hostname="localhost")
-publish.single("rumah/lampu/kamar", "on", hostname="localhost")
+publish.single("sensor/data1", "200", hostname="139.59.225.39", password=)
+publish.single("sensor/data2", "300", hostname="139.59.225.39")
+publish.single("sensor/data3", "400", hostname="139.59.225.39")
